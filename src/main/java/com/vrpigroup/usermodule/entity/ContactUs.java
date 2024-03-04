@@ -40,4 +40,5 @@ public class ContactUs {
     @CreatedDate
     @Column(nullable = false)
     private LocalDateTime messagedOn;
+
 }
